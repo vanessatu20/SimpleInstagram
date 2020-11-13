@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ca282b4a-b40c-4b29-acf4-2a0671d19a0a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../LDR_app" beforeDir="false" afterPath="$PROJECT_DIR$/../LDR_app" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eduplex_addCourse" beforeDir="false" afterPath="$PROJECT_DIR$/../eduplex_addCourse" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eduplex_edupoints" beforeDir="false" afterPath="$PROJECT_DIR$/../eduplex_edupoints" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eduplex_sideBar" beforeDir="false" afterPath="$PROJECT_DIR$/../eduplex_sideBar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eduplex_upgrade" beforeDir="false" afterPath="$PROJECT_DIR$/../eduplex_upgrade" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flixster/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../flixster/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flixster/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../flixster/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flixster/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../flixster/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flixster/app/src/main/java/com/example/flixster/adapters/MovieAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../flixster/app/src/main/java/com/example/flixster/adapters/MovieAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flixster/app/src/main/java/com/example/flixster/models/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/../flixster/app/src/main/java/com/example/flixster/models/Movie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flixster/app/src/main/res/layout-land/item_movie.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../flixster/app/src/main/res/layout-land/item_movie.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flixster/app/src/main/res/layout/item_movie.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../flixster/app/src/main/res/layout/item_movie.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jasmine_portfolio" beforeDir="false" afterPath="$PROJECT_DIR$/../jasmine_portfolio" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ldr_homepage/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ldr_homepage/.metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ldr_homepage/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ldr_homepage/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ldr_homepage/android/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ldr_homepage/android/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ldr_homepage/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ldr_homepage/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ldr_homepage/android/app/src/main/kotlin/com/example/ldr_app/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ldr_homepage/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ldr_homepage/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ldr_homepage/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ldr_homepage/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ldr_homepage/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ldr_homepage/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ldr_homepage/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ldr_homepage/android/app/src/profile/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ldr_homepage/android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ldr_homepage/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ldr_homepage/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ldr_homepage/android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ldr_homepage/ios/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ldr_homepage/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ldr_homepage/ios/Flutter/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ldr_homepage/ios/Flutter/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ldr_homepage/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ldr_homepage/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ldr_homepage/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ldr_homepage/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ldr_homepage/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ldr_homepage/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ldr_homepage/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ldr_homepage/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ldr_homepage/ios/Runner/AppDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ldr_homepage/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ldr_homepage/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ldr_homepage/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ldr_homepage/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ldr_homepage/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ldr_homepage/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ldr_homepage/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ldr_homepage/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ldr_homepage/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ldr_homepage/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ldr_homepage/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ldr_homepage/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ldr_homepage/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ldr_homepage/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ldr_homepage/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ldr_homepage/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ldr_homepage/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ldr_homepage/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ldr_homepage/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ldr_homepage/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ldr_homepage/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ldr_homepage/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ldr_homepage/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ldr_homepage/ios/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ldr_homepage/ios/Runner/Runner-Bridging-Header.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ldr_homepage/lib/homepage.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ldr_homepage/pubspec.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ldr_homepage/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../robofriends" beforeDir="false" afterPath="$PROJECT_DIR$/../robofriends" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-todo" beforeDir="false" afterPath="$PROJECT_DIR$/../simple-todo" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="layoutResourceFile" />
+        <option value="Class" />
+        <option value="resourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kDc2M5RYZJKhDtEIhn63sXn5LB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_4_API_29" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-11-13T06:02:41.376Z" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.simpleinstagram" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="SimpleInstagram.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca282b4a-b40c-4b29-acf4-2a0671d19a0a" name="Default Changelist" comment="" />
+      <created>1605238394233</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605238394233</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="365" y="133" key="#com.intellij.ide.util.MemberChooser" timestamp="1605251331734">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state x="365" y="133" key="#com.intellij.ide.util.MemberChooser/0.23.1440.811@0.23.1440.811" timestamp="1605251331734" />
+    <state x="102" y="123" width="901" height="593" key="AVDManager" timestamp="1605247373648">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state x="102" y="123" width="901" height="593" key="AVDManager/0.23.1440.811@0.23.1440.811" timestamp="1605247373648" />
+    <state x="140" y="181" key="AndroidCreateResourceDirectoryDialog" timestamp="1605251858043">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state x="140" y="181" key="AndroidCreateResourceDirectoryDialog/0.23.1440.811@0.23.1440.811" timestamp="1605251858043" />
+    <state x="140" y="181" key="AndroidCreateResourceFileDialog" timestamp="1605251907526">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state x="140" y="181" key="AndroidCreateResourceFileDialog/0.23.1440.811@0.23.1440.811" timestamp="1605251907526" />
+    <state width="1059" height="171" key="GridCell.Tab.0.bottom" timestamp="1605248171428">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state width="1059" height="171" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" timestamp="1605248171428" />
+    <state width="1059" height="171" key="GridCell.Tab.0.center" timestamp="1605248171428">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state width="1059" height="171" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" timestamp="1605248171428" />
+    <state width="1059" height="171" key="GridCell.Tab.0.left" timestamp="1605248171428">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state width="1059" height="171" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" timestamp="1605248171428" />
+    <state width="1059" height="171" key="GridCell.Tab.0.right" timestamp="1605248171428">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state width="1059" height="171" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1605248171428" />
+    <state x="335" y="340" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605239515911">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state x="335" y="340" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.811@0.23.1440.811" timestamp="1605239515911" />
+    <state x="217" y="158" width="670" height="676" key="search.everywhere.popup" timestamp="1605238614938">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state x="217" y="158" width="670" height="676" key="search.everywhere.popup/0.23.1440.811@0.23.1440.811" timestamp="1605238614938" />
+  </component>
+</project>
